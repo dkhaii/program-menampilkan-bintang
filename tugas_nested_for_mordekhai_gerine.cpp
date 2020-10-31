@@ -4,9 +4,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Nama  : Mordekhai Gerine Lumangkun\n";
-    cout << "NPM   : 20081010041\n\n";
-
 //  Program menampilkan bintang pola persegi
     cout << "Program menampilkan bitang pola persegi.\n";
 
